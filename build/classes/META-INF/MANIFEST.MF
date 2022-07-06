@@ -1,0 +1,76 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_151-b12 (Oracle Corporation)
+Class-Path: lib/eclipselink.jar lib/javax.persistence_2.1.0.v201304241
+ 213.jar lib/org.eclipse.persistence.jpa.jpql_2.5.2.v20140319-9ad6abd.
+ jar lib/jaxb-impl.jar lib/jaxb-xjc.jar lib/FastInfoset.jar lib/gmbal-
+ api-only.jar lib/ha-api.jar lib/javax.mail_1.4.jar lib/jaxws-rt.jar l
+ ib/jaxws-tools.jar lib/management-api.jar lib/mimepull.jar lib/policy
+ .jar lib/saaj-impl.jar lib/stax-ex.jar lib/stax2-api.jar lib/streambu
+ ffer.jar lib/woodstox-core-asl.jar lib/jaxws-api.jar lib/jsr181-api.j
+ ar lib/javax.annotation.jar lib/saaj-api.jar lib/activation.jar lib/j
+ axb-api.jar lib/jsr173_1.0_api.jar lib/javax.annotation-api.jar lib/j
+ avax.xml.soap-api.jar lib/jaxb-api-osgi.jar lib/jaxws-api.jar lib/jsr
+ 181-api.jar lib/jspcompile.jar lib/derby.jar lib/derbyclient.jar lib/
+ derbynet.jar lib/mysql-connector-java-5.1.23-bin.jar lib/ant.jar lib/
+ servlet3.1-jsp2.3-api.jar lib/glassfish-jspparser-4.0.jar lib/jstl-im
+ pl.jar lib/javax.faces.jar lib/swing-layout-1.0.4.jar lib/postgresql-
+ 9.4.1209.jar lib/javaee5.jar lib/beansbinding-1.2.1.jar lib/jstl-api.
+ jar lib/ant-launcher.jar lib/primefaces-5.0.jar lib/org-apache-common
+ s-logging.jar lib/cglib-2.2.jar lib/spring-aop-3.2.7.RELEASE.jar lib/
+ spring-aspects-3.2.7.RELEASE.jar lib/spring-beans-3.2.7.RELEASE.jar l
+ ib/spring-build-src-3.2.7.RELEASE.jar lib/spring-context-3.2.7.RELEAS
+ E.jar lib/spring-context-support-3.2.7.RELEASE.jar lib/spring-core-3.
+ 2.7.RELEASE.jar lib/spring-expression-3.2.7.RELEASE.jar lib/spring-fr
+ amework-bom-3.2.7.RELEASE.jar lib/spring-instrument-3.2.7.RELEASE.jar
+  lib/spring-instrument-tomcat-3.2.7.RELEASE.jar lib/spring-jdbc-3.2.7
+ .RELEASE.jar lib/spring-jms-3.2.7.RELEASE.jar lib/spring-orm-3.2.7.RE
+ LEASE.jar lib/spring-oxm-3.2.7.RELEASE.jar lib/spring-struts-3.2.7.RE
+ LEASE.jar lib/spring-test-3.2.7.RELEASE.jar lib/spring-tx-3.2.7.RELEA
+ SE.jar lib/spring-web-3.2.7.RELEASE.jar lib/spring-webmvc-3.2.7.RELEA
+ SE.jar lib/spring-webmvc-portlet-3.2.7.RELEASE.jar lib/AbsoluteLayout
+ .jar lib/jfreechart-1.0.6.jar lib/jcalendar-1.4.jar/ lib/jcalendar.ja
+ r lib/jcalendar_alpha-0.0.4.jar lib/jcommon-1.0.8.jar lib/jfreechart-
+ 1.0.6.jar.zip lib/jcalendar-1.4/ lib/antlr-2.7.2.jar lib/bsf-2.3.0.ja
+ r lib/commons-beanutils-1.8.0.jar lib/commons-chain-1.2.jar lib/commo
+ ns-digester-1.8.jar lib/commons-fileupload-1.1.1.jar lib/commons-io-1
+ .1.jar lib/commons-logging-1.0.4.jar lib/commons-validator-1.3.1.jar 
+ lib/jstl-1.0.2.jar lib/oro-2.0.8.jar lib/standard-1.0.6.jar lib/strut
+ s-core-1.3.10.jar lib/struts-el-1.3.10.jar lib/struts-extras-1.3.10.j
+ ar lib/struts-faces-1.3.10.jar lib/struts-mailreader-dao-1.3.10.jar l
+ ib/struts-scripting-1.3.10.jar lib/struts-taglib-1.3.10.jar lib/strut
+ s-tiles-1.3.10.jar lib/org.eclipse.persistence.jpa.modelgen_2.5.2.v20
+ 140319-9ad6abd.jar lib/commons-beanutils.jar lib/commons-collections.
+ jar lib/commons-digester.jar lib/commons-logging.jar lib/jsf-api.jar 
+ lib/jsf-impl.jar lib/antlr-2.7.7.jar lib/c3p0-0.9.2.1.jar lib/hiberna
+ te-c3p0-4.3.1.Final.jar lib/mchange-commons-java-0.2.3.4.jar lib/dom4
+ j-1.6.1.jar lib/ehcache-core-2.4.3.jar lib/hibernate-ehcache-4.3.1.Fi
+ nal.jar lib/hibernate-core-4.3.1.Final.jar lib/jboss-logging-3.1.3.GA
+ .jar lib/hibernate-commons-annotations-4.0.4.Final.jar lib/hibernate-
+ entitymanager-4.3.1.Final.jar lib/javassist-3.18.1-GA.jar lib/jboss-t
+ ransaction-api_1.2_spec-1.0.0.Final.jar lib/slf4j-api-1.6.1.jar lib/s
+ lf4j-simple-1.6.1.jar lib/hibernate-jpa-2.1-api-1.0.0.Final.jar lib/j
+ unit-4.12.jar lib/testng-6.8.1-dist.jar lib/spring-webmvc-4.0.1.RELEA
+ SE.jar lib/hibernate-jpamodelgen-4.3.1.Final.jar lib/hamcrest-core-1.
+ 3.jar lib/javax.annotation.jar lib/jaxb-api-osgi.jar lib/webservices-
+ api-osgi.jar lib/jaxb1-impl.jar lib/javaee-web-api-6.0.jar lib/jcalen
+ dar-1.4.zip lib/org-netbeans-modules-javawebstart-anttasks.jar lib/or
+ g-netbeans-modules-java-j2seproject-copylibstask.jar lib/spring-aop-4
+ .0.1.RELEASE.jar lib/spring-aspects-4.0.1.RELEASE.jar lib/spring-bean
+ s-4.0.1.RELEASE.jar lib/spring-build-src-4.0.1.RELEASE.jar lib/spring
+ -context-4.0.1.RELEASE.jar lib/spring-context-support-4.0.1.RELEASE.j
+ ar lib/spring-core-4.0.1.RELEASE.jar lib/spring-expression-4.0.1.RELE
+ ASE.jar lib/spring-framework-bom-4.0.1.RELEASE.jar lib/spring-instrum
+ ent-4.0.1.RELEASE.jar lib/spring-instrument-tomcat-4.0.1.RELEASE.jar 
+ lib/spring-jdbc-4.0.1.RELEASE.jar lib/spring-jms-4.0.1.RELEASE.jar li
+ b/spring-messaging-4.0.1.RELEASE.jar lib/spring-orm-4.0.1.RELEASE.jar
+  lib/spring-oxm-4.0.1.RELEASE.jar lib/spring-test-4.0.1.RELEASE.jar l
+ ib/spring-tx-4.0.1.RELEASE.jar lib/spring-web-4.0.1.RELEASE.jar lib/s
+ pring-webmvc-portlet-4.0.1.RELEASE.jar lib/spring-websocket-4.0.1.REL
+ EASE.jar lib/javaee-web-api-7.0.jar lib/nb-javac-api.jar lib/javaee-a
+ pi-6.0.jar lib/javaee-api-7.0.jar lib/jcalendar.jar lib/mail.jar lib/
+ mailapi-1.4.5.jar lib/mail.jar lib/Downloads/ lib/Compressed/ lib/jav
+ a-mail-1.4.4.jar lib/java-mail-1.4.4.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: Voila.Main
+
